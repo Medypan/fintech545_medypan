@@ -1,7 +1,1 @@
-# Assignment 7.1 – Normal Fit (Notebook & Notes)
 
-- Input: `data/test7_1.csv` (use the **first column**)
-- Run:
-  ```bash
-  pip install -r requirements.txt
-  python scripts/run_fit_normal.py --input data/test7_1.csv --output data/testout7_1.csv
